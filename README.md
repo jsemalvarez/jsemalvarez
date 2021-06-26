@@ -9,6 +9,15 @@
 
 Welcome to my Github page! I am Jose and I am a web developer
 
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/19316261/123500453-8e4c7f00-d614-11eb-84a9-7c8812633ad5.jpeg" width="50%" height="auto" />
+
+
+#### :muscle: Things I am currently working on: 
+- Gestion Atlantis 🚀 *coming soon* 
+- Pokemon Chat 🚀 *coming soon*
+- [La Biblia del Age](https://github.com/bi4group)
+- [Descubri MdP](https://libro-n-aoe.web.app/)
+
 
 #### :computer: Programming languages and tools: 
 <p>
