@@ -14,7 +14,7 @@ Welcome to my Github page! I am Jose and I am a web developer
 
 #### :muscle: Things I am currently working on: 
 - Gestion Atlantis 🚀 *coming soon* 
-- Pokemon Chat 🚀 *coming soon*
+- [Pocke Chat](https://pockechat.netlify.app/)
 - [La Biblia del Age](https://github.com/bi4group)
 - [Descubri MdP](https://libro-n-aoe.web.app/)
 
