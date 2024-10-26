@@ -14,7 +14,7 @@ Welcome to my Github page! I am Jose and I am a web developer
 
 #### :muscle: Things I am currently working on: 
 - Gestion CQ 🚀 *coming soon* 
-- PokeChat [🌍demo](https://pogo-mdp-chat.web.app) / [💻code](https://pogo-mdp-chat.web.app)
+- PokeChat [🌍demo](https://pogo-mdp-chat.web.app) / [💻code](https://github.com/jsemalvarez/pokechat-react-firebase)
 - PCP [🌍demo](https://paseosconpequesmdp.web.app/) / [💻code](https://github.com/jsemalvarez/paseos-con-peques)
 - Descubri MdP [🌍demo](https://descubrimdp.web.app/) / [💻code](https://github.com/jsemalvarez/descubri-mdp)
 - Boilerplate NodeJS [💻code](https://github.com/jsemalvarez/node-ts-api-boilerplate)
