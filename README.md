@@ -13,10 +13,13 @@ Welcome to my Github page! I am Jose and I am a web developer
 
 
 #### :muscle: Things I am currently working on: 
-- Gestion Atlantis 🚀 *coming soon* 
-- [PokeChat](https://pogo-mdp-chat.web.app)
-- [La Biblia del AoE](https://libro-n-aoe.web.app/)
-- [Descubri MdP](https://descubrimdp.web.app/)
+- Gestion CQ 🚀 *coming soon* 
+- PokeChat [🌍demo](https://pogo-mdp-chat.web.app) / [💻code](https://pogo-mdp-chat.web.app)
+- PCP [🌍demo](https://paseosconpequesmdp.web.app/) / [💻code](https://github.com/jsemalvarez/paseos-con-peques)
+- Descubri MdP [🌍demo](https://descubrimdp.web.app/) / [💻code](https://github.com/jsemalvarez/descubri-mdp)
+- Boilerplate NodeJS [💻code](https://github.com/jsemalvarez/node-ts-api-boilerplate)
+- Boilerplate React + Firebase [💻code](https://github.com/jsemalvarez/react-firebase-boilerplate)
+
 
 
 #### :computer: Programming languages and tools: 
