@@ -13,6 +13,9 @@ Welcome to my Github page! I am Jose and I am a web developer
 
 
 #### :muscle: Things I am currently working on: 
+- Viajeros en Rio 🚀 *coming soon* 
+- L.E. Propiedades 🚀 *coming soon* 
+- Viajeros en Rio 🚀 *coming soon* 
 - Gestion CQ 🚀 *coming soon* 
 - PokeChat [🌍demo](https://pogo-mdp-chat.web.app) / [💻code](https://github.com/jsemalvarez/pokechat-react-firebase)
 - PCP [🌍demo](https://paseosconpequesmdp.web.app/) / [💻code](https://github.com/jsemalvarez/paseos-con-peques)
